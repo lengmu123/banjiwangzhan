@@ -8,7 +8,7 @@ var h = document.documentElement.clientHeight-50;
 		var fsize = parseInt(Math.random()*21+20);
 		var color = getC();	
 		//document.write("<span style='color:"+color+";font-size:"+fsize+"px;font-family:微软雅黑;position:absolute;left:"+wr+"px;top:"+hr+"px;z-index:"+n+i+"'>"+cdata[i]+"</span>");
-		document.write("<span style='color:"+color+";font-size:"+fsize+"px;font-family:微软雅黑;position:absolute;left:"+wr+"px;top:"+hr+"px;z-index:"+i+"'><a href='"+cdata[i].url+"' target='_blank'>"+cdata[i].name+"</a></span>");
+		document.write("<span style='color:"+color+";font-size:"+fsize+"px;font-family:微软雅黑;position:absolute;left:"+wr+"px;top:"+hr+"px;z-index:"+i+"'><a style='color:"+color+"; href='"+cdata[i].url+"' target='_blank'>"+cdata[i].name+"</a></span>");
 	}
 	//alert(str);
 //}	
