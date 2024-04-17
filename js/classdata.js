@@ -8,7 +8,7 @@ var cdata = [{url:'http://jx-space.gitee.io/jxin-web',no:'199000136',name:'蒋�
 			{url:'https://asdfho.github.io/tangmu/',no:'219970121',name:'刘唐强'},
 			{url:'https://a-gentle-one.gitee.io/personal_web/',no:'219970126',name:'沈琪闲'},
 			{url:'https://zhang-yunsong0527.gitee.io/zys/',no:'219970143',name:'张运松'},
-			{url:'http://huimu.svfree.net/',no:'219970147',name:'周兴忠'},
+			{url:'http://zxz2246736387.gitee.io/zxz',no:'219970147',name:'周兴忠'},
 			{url:'https://nanaya716.gitee.io/',no:'219970204',name:'方裕森'},
 			{url:'http://lishangmomo.gitee.io/langlang',no:'219970206',name:'高文志'},
 			{url:'',no:'219970212',name:'金荣泽'},
