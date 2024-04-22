@@ -1,5 +1,5 @@
 var cdata = [{url:'https://jx-space.gitee.io/jxin-web',no:'199000136',name:'蒋鑫'},
-			{url:'https://tyfisshuaige.gitee.io/tian-yifan/',no:'199520410',name:'田一凡'},
+			{url:'https://tyfisshuaige.gitee.io',no:'199520410',name:'田一凡'},
 			{url:'',no:'209000950',name:'王源'},
 			{url:'https://jky918918.github.io/jky1023/',no:'219970109',name:'姜凯元'},
 			{url:'https://mankind5201.gitee.io/obito/',no:'219970112',name:'雷骏扬'},
