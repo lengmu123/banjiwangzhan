@@ -11,7 +11,7 @@ var cdata = [{url:'https://jx-space.gitee.io/jxin-web',no:'199000136',name:'蒋�
 			{url:'https://zxz2246736387.gitee.io/zxz',no:'219970147',name:'周兴忠'},
 			{url:'https://nanaya716.gitee.io/',no:'219970204',name:'方裕森'},
 			{url:'https://lishangmomo.gitee.io/langlang',no:'219970206',name:'高文志'},
-			{url:'',no:'219970212',name:'金荣泽'},
+			{url:'https://jrzfakin.github.io/JRZ23/',no:'219970212',name:'金荣泽'},
 			{url:'https://lengmu123.github.io/-/',no:'219970238',name:'向杨'},
 			{url:'https://reality123aaa.github.io/Reality/',no:'219970240',name:'叶珂杉'},
 			{url:'https://oneflamingo.gitee.io/kris-web/',no:'219970825',name:'邱光雄'},
