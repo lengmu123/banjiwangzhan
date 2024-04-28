@@ -21,7 +21,7 @@ var cdata = [{url:'https://jx-space.gitee.io/jxin-web',no:'199000136',name:'蒋�
 			{url:'https://bufuqing1.github.io/-/',no:'219970505',name:'付巍'},
 			{url:'https://zeye-qianli.gitee.io/hcyzuoye.web/',no:'219970507',name:'何朝野'},
 			{url:'https://numbweb3.github.io/hx-js/',no:'219970509',name:'何鑫'},
-			{url:'https://redamancy-java.gitee.io/redamancy-website/',no:'219970511',name:'胡虞强'},
+			{url:'http://8.130.107.155/',no:'219970511',name:'胡虞强'},
 			{url:'https://lidada54.github.io/lihaoran.github.io/',no:'219970513',name:'李浩然'},
 			{url:'https://rowensen.gitee.io/lws/',no:'219970521',name:'罗汶森'},
 			{url:'https://pan-wangfeng.gitee.io/client_develop',no:'219970522',name:'潘望凤'},
