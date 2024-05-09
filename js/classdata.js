@@ -45,7 +45,7 @@ var cdata = [{url:'https://jx-space.gitee.io/jxin-web',no:'199000136',name:'蒋�
 			{url:'https://twodaylj.gitee.io/javascript/',no:'219971123',name:'罗举'},
 			{url:'https://ran-qianbao.gitee.io/ran-qianbaos-project',no:'219971125',name:'冉钱宝'},
 			{url:'https://dariamks.github.io/',no:'219971133',name:'向子豪'},
-			{url:'https://yuan506.gitee.io/jasonyuan_web/',no:'219971140',name:'袁铭钊'},
+			{url:'https://jsonyuan1.github.io/person-work/',no:'219971140',name:'袁铭钊'},
 			{url:'https://alice-zlg.github.io/',no:'219971147',name:'朱良桂'},
 			{url:'https://uf0073.gitee.io/zhaofuxin/',no:'219970444',name:'赵夫新'}
 			];
