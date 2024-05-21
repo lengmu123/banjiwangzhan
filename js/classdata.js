@@ -5,7 +5,7 @@ var cdata = [{url:'https://jxins.github.io/jxin-web/',no:'199000136',name:'蒋�
 			{url:'https://mankind5201.gitee.io/obito/',no:'219970112',name:'雷骏扬'},
 			{url:'https://masdaju.github.io',no:'219970113',name:'李佳豪'},
 			{url:'https://lq67666.github.io/hailibu/index.html',no:'219970120',name:'刘奇'},
-			{url:'https://asdfho.github.io/tangmu/',no:'219970121',name:'刘唐强'},
+			{url:'https://asdfho.github.io/tang/',no:'219970121',name:'刘唐强'},
 			{url:'https://a-gentle-one.gitee.io/personal_web/',no:'219970126',name:'沈琪闲'},
 			{url:'https://zhang-yunsong0527.gitee.io/zys/',no:'219970143',name:'张运松'},
 			{url:'https://zxz2246736387.gitee.io/zxz',no:'219970147',name:'周兴忠'},
