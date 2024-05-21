@@ -17,7 +17,7 @@ var cdata = [{url:'https://jxins.github.io/jxin-web/',no:'199000136',name:'蒋�
 			{url:'https://oneflamingo.gitee.io/kris-web/',no:'219970825',name:'邱光雄'},
 			{url:'https://brettvv.cn/',no:'219970502',name:'陈浩然'},
 			{url:'https://chenleiworkspeace.gitee.io/cl-web',no:'219970503',name:'陈磊'},
-			{url:'https://chen-wentao0927.gitee.io/java-script',no:'219970504',name:'陈文涛'},
+			{url:'https://chen-wt.github.io/219970504cwt.github.io/',no:'219970504',name:'陈文涛'},
 			{url:'https://bufuqing1.github.io/-/',no:'219970505',name:'付巍'},
 			{url:'https://zeyeqianli.github.io/zuoye/',no:'219970507',name:'何朝野'},
 			{url:'https://numbweb3.github.io/hx-js/',no:'219970509',name:'何鑫'},
