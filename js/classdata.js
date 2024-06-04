@@ -10,7 +10,7 @@ var cdata = [{url:'https://jxins.github.io/jxin-web/',no:'199000136',name:'蒋�
 			{url:'https://zhang-yunsong0527.gitee.io/zys/',no:'219970143',name:'张运松'},
 			{url:'https://zxz2246736387.gitee.io/zxz',no:'219970147',name:'周兴忠'},
 			{url:'https://nanaya716.github.io/',no:'219970204',name:'方裕森'},
-			{url:'https://lishangmomo.gitee.io/langlang',no:'219970206',name:'高文志'},
+			{url:'http://47.109.74.6:8087/index.html',no:'219970206',name:'高文志'},
 			{url:'https://jrzfakin.github.io/JRZ23/',no:'219970212',name:'金荣泽'},
 			{url:'https://lengmu123.github.io/-/',no:'219970238',name:'向杨'},
 			{url:'https://reality123aaa.github.io/yekeshan/',no:'219970240',name:'叶珂杉'},
