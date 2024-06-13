@@ -47,5 +47,5 @@ var cdata = [{url:'https://jxins.github.io/jxin-web/',no:'199000136',name:'蒋�
 			{url:'https://dariamks.github.io/',no:'219971133',name:'向子豪'},
 			{url:'https://jsonyuan1.github.io/person-work/',no:'219971140',name:'袁铭钊'},
 			{url:'https://alice-zlg.github.io/',no:'219971147',name:'朱良桂'},
-			{url:'https://uf0073.gitee.io/zhaofuxin/',no:'219970444',name:'赵夫新'}
+			{url:'https://ufelderb.github.io/zhaofuxin000/',no:'219970444',name:'赵夫新'}
 			];
