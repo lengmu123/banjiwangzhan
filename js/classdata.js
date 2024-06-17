@@ -35,7 +35,7 @@ var cdata = [{url:'https://jxins.github.io/jxin-web/',no:'199000136',name:'蒋�
 			{url:'https://fmznb.github.io/FM.github.io/',no:'219970706',name:'付洺'},
 			{url:'https://dessert13.github.io/project/',no:'219970707',name:'辜靖耘'},
 			{url:'https://gagerkey.github.io/box.github.io/',no:'219970709',name:'贺钧豪'},
-			{url:'https://hyx44.github.io/myweb/',no:'219970711',name:'黄钰勋'},
+			{url:'https://hyx44.github.io/',no:'219970711',name:'黄钰勋'},
 			{url:'#',no:'219970714',name:'李佳'},
 			{url:'https://li1235458.github.io/LYX/',no:'219970717',name:'李滢潇'},
 			{url:'https://hualiukai.github.io/lk.github.io/',no:'219970718',name:'刘凯'},
